@@ -1,0 +1,13 @@
+{
+  "name": "electron-ipc-renderer-extend",
+  "version": "1.0.0",
+  "description": "Provides a simpler use for ipcRenderer in electron",
+  "main": "main.js",
+  "repository": "https://github.com/johnitvn/electron-ipc-renderer-extend.git",
+  "author": "John Martin <john.itvn@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "electron": "^13.1.7"
+  }
+}
